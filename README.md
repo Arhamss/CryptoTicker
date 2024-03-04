@@ -1,4 +1,4 @@
-# BMI Calculator in Flutter
+# Crypto Currency Ticker in Flutter
 
 ## Overview
 
